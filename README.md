@@ -14,20 +14,16 @@ Organizes all your class tasks and automatically creates Google Calendar events.
 **Technologies Used:** JavaScript, Google Calendar API.  
 _Last Updated: 3 days ago._
 
+#### [Playoff-Win-Predictor](https://github.com/Matthew-Paoletta/Playoff-Win-Predictor) 🏀
+Modeled to predict if a sports team will have more playoff wins.  
+**Technologies Used:** Python, Jupyter Notebook, Predictive Analytics.  
+_Last Updated: March 31, 2025._
+
 #### [Odds-Predictor](https://github.com/Matthew-Paoletta/Odds-Predictor) 🔢
 A Python project focused on data modeling and predictions.  
 **Technologies Used:** Python, Data Analysis.  
 _Last Updated: July 29, 2025._
 
-#### [Nonprofit-Webscraper](https://github.com/Matthew-Paoletta/Nonprofit-Webscraper) 🕸️
-A web scraper tool to gather insights efficiently.  
-**Technologies Used:** Python, Web_scraping Libraries.  
-_Last Updated: April 22, 2025._
-
-#### [Playoff-Win-Predictor](https://github.com/Matthew-Paoletta/Playoff-Win-Predictor) 🏀
-Modeled to predict if a sports team will have more playoff wins.  
-**Technologies Used:** Python, Jupyter Notebook, Predictive Analytics.  
-_Last Updated: March 31, 2025._
 
 ### Get in Touch
 - 📫 Reach me at: matthew.paoletta@example.com
