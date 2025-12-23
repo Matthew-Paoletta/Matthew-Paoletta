@@ -30,7 +30,10 @@ A personal or project site created with Builder.io.
 _Last Updated: Just a few minutes ago._
 
 ### GitHub Stats & Activity 📊
-![image1](image1)
+
+![Matthew Vincent Paoletta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-Paoletta&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Paoletta&layout=compact&theme=radical)
 
 ### Get in Touch
 - 📫 Reach me at: matthew.paoletta73@gmail.com
