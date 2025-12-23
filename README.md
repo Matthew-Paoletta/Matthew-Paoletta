@@ -11,7 +11,7 @@ Hi! I'm Matthew Vincent Paoletta, a passionate developer eager to innovate and s
 ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C](https://img.shields.io/badge/-C-gray) ![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
 
 #### Tools & Technologies:
-![Git](https://img.shields.io/badge/-Git-black) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-orange) ![GDB](https://img.shields.io/badge/-GDB-lightgray) ![Valgrind](https://img.shields.io/badge/-Valgrind-lightgray) ![NumPy](https://img.shields.io/badge/-NumPy-blue) ![Pandas](https://img.shields.io/badge/-Pandas-blue) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
+![JupyterLab](https://img.shields.io/badge/-JupyterLab-orange) ![GDB](https://img.shields.io/badge/-GDB-lightgray) ![Valgrind](https://img.shields.io/badge/-Valgrind-lightgray) ![NumPy](https://img.shields.io/badge/-NumPy-blue) ![Pandas](https://img.shields.io/badge/-Pandas-blue) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
 
 ### Key Projects 🚀
 #### [Getting-It-Done](https://github.com/Matthew-Paoletta/Getting-It-Done) 📅
