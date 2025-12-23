@@ -9,6 +9,16 @@ Hi! I'm Matthew Vincent Paoletta, a passionate developer eager to innovate and s
 **Technologies Used:** TypeScript, HTML/CSS.  
 _Last Updated: Just a few minutes ago!_
 
+### Tech Stack 💻
+#### Languages:
+![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C](https://img.shields.io/badge/-C-gray) ![C++](https://img.shields.io/badge/-C++-blue) ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-red) ![CUDA](https://img.shields.io/badge/-CUDA-green)
+
+#### Developer Tools:
+![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-orange) ![Git](https://img.shields.io/badge/-Git-black) ![Expo](https://img.shields.io/badge/-Expo-blue) ![EAS CLI](https://img.shields.io/badge/-EAS_CLI-blue) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-red) ![Figma](https://img.shields.io/badge/-Figma-purple)
+
+#### Libraries & Frameworks:
+![React](https://img.shields.io/badge/-React-blue) ![React Native](https://img.shields.io/badge/-React_Native-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![PyTorch](https://img.shields.io/badge/-PyTorch-orange) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+
 #### [Getting-It-Done](https://github.com/Matthew-Paoletta/Getting-It-Done) 📅
 Organizes all your class tasks and automatically creates Google Calendar events.  
 **Technologies Used:** JavaScript, Google Calendar API.  
