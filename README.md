@@ -4,7 +4,8 @@
 Hi! I'm Matthew Vincent Paoletta, a passionate developer eager to innovate and solve real-world problems through technology. Check out the projects I've created to explore the range of technologies I specialize in and topics that intrigue me.
 
 ### Connect with Me 🌐
-- [LinkedIn](https://www.linkedin.com/in/matthew-paoletta-b13738299/) (CONNECT)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/matthew-paoletta-b13738299/)
 
 ### Tech Stack 💻
 #### Languages:
