@@ -25,10 +25,11 @@ Modeled to predict if a sports team will have more playoff wins.
 **Technologies Used:** Python, Jupyter Notebook, Predictive Analytics.  
 _Last Updated: March 31, 2025._
 
-#### [Matthew-Paoletta.github.io](https://github.com/Matthew-Paoletta/Matthew-Paoletta.github.io) 🌐
-A personal or project site created with Builder.io.  
-**Technologies Used:** TypeScript, HTML/CSS.  
-_Last Updated: Just a few minutes ago._
+#### [Factors of Collaboration](https://github.com/Matthew-Paoletta/Factors-of-Collaboration) 🎵📊
+A data science project analyzing which factors most strongly predict music artist collaborations. Framed as a binary classification problem using artist popularity, background, and audio features.  
+**Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook.  
+_Last Updated: Winter 2025._
+
 
 ### GitHub Stats & Activity 📊
 
