@@ -37,6 +37,7 @@ _Last Updated: Winter 2025._
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Paoletta&layout=compact&theme=radical)
 
+
 ### Get in Touch
 - 📫 Reach me at: matthew.paoletta73@gmail.com
 - 🌐 My Website: [Matthew-Paoletta.github.io](https://Matthew-Paoletta.github.io)
