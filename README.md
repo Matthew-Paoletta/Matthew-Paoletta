@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile 👋👋
 
 ### About Me
-Hi! I'm Matthew Vincent Paoletta, a passionate developer eager to innovate and solve real-world problems through technology. Check out the projects I've created to explore the range of technologies I specialize in and topics that intrigue me.
+Hi! I'm Matthew Paoletta, a passionate developer eager to innovate and solve real-world problems through technology. Check out the projects I've created to explore the range of technologies I specialize in and topics that intrigue me.
 
 ### Connect with Me 🌐
 
@@ -33,7 +33,7 @@ _Last Updated: Winter 2025._
 
 ### GitHub Stats & Activity 📊
 
-![Matthew Vincent Paoletta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-Paoletta&show_icons=true&theme=radical)
+![Matthew Paoletta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-Paoletta&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Paoletta&layout=compact&theme=radical)
 
