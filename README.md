@@ -33,7 +33,7 @@ _Last Updated: Winter 2025._
 
 ### GitHub Stats & Activity 📊
 
-![Matthew Paoletta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-Paoletta&show_icons=true&theme=radical)
+![Matthew Paoletta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matthew-Paoletta&theme=react-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Paoletta&layout=compact&theme=radical)
 
