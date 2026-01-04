@@ -15,10 +15,10 @@ Hi! I'm Matthew Paoletta, a passionate developer eager to innovate and solve rea
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-orange) ![GDB](https://img.shields.io/badge/-GDB-lightgray) ![Valgrind](https://img.shields.io/badge/-Valgrind-lightgray) ![NumPy](https://img.shields.io/badge/-NumPy-blue) ![Pandas](https://img.shields.io/badge/-Pandas-blue) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue)
 
 ### Key Projects 🚀
-#### [Getting-It-Done](https://github.com/Matthew-Paoletta/Getting-It-Done) 📅
+#### [WebReg2Cal](https://github.com/Matthew-Paoletta/WebReg2Cal) 📅
 Organizes all your class tasks and automatically creates Google Calendar events.  
 **Technologies Used:** JavaScript, Google Calendar API.  
-_Last Updated: 3 days ago._
+_Last Updated: January 3, 2026._
 
 #### [Playoff-Win-Predictor](https://github.com/Matthew-Paoletta/Playoff-Win-Predictor) 🏀
 Modeled to predict if a sports team will have more playoff wins.  
