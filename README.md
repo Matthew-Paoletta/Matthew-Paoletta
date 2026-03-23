@@ -25,10 +25,10 @@ Modeled to predict if a sports team will have more playoff wins.
 **Technologies Used:** Python, Jupyter Notebook, Predictive Analytics.  
 _Last Updated: March 31, 2025._
 
-#### [Factors of Collaboration](https://github.com/Matthew-Paoletta/Factors-of-Collaboration) 🎵📊
-A data science project analyzing which factors most strongly predict music artist collaborations. Framed as a binary classification problem using artist popularity, background, and audio features.  
-**Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook.  
-_Last Updated: Winter 2025._
+#### [Movie Recommender Final Model](#) 🎬📊
+Developed an improved Hidden Markov Model (HMM) for movie recommendations, modeling temporal dynamics of industry regimes over time and outperforming baselines by 50.6%. The project incorporated Bayesian Networks, EM algorithm, and comprehensive EDA.  
+**Technologies Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook.  
+_Last Updated: March 2026._
 
 
 ### GitHub Stats & Activity 📊
