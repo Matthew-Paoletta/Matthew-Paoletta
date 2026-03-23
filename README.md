@@ -22,7 +22,7 @@ Whether I'm working in a cross-functional team to build predictive machine learn
 * **Impact:** Achieved a **50.6% performance improvement** over baseline models by successfully identifying hidden industry production regimes.
 * **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter.
 
-### 🏀 [Playoff-Win-Predictor](https://github.com/Matthew-Paoletta/Playoff-Win-Predictor)
+### ⚾ [Playoff-Win-Predictor](https://github.com/Matthew-Paoletta/Playoff-Win-Predictor)
 *A predictive analytics model built for sports forecasting.*
 * **Impact:** Processed and cleaned large datasets to build a statistical model capable of predicting NBA team playoff success, demonstrating a strong grasp of data preprocessing and feature engineering.
 * **Tech Stack:** Python, Predictive Analytics, Data Visualization.
