@@ -1,8 +1,8 @@
 # Hi, I'm Matthew Paoletta 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/matthew-paoletta-b13738299/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?logo=google-chrome&style=flat-square)](https://Matthew-Paoletta.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=flat-square)](mailto:matthew.paoletta73@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-paoletta-b13738299/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Matthew-Paoletta.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew.paoletta73@gmail.com)
 
 ## 👨‍💻 About Me
 I am a motivated Software Developer passionate about solving real-world problems through data-driven engineering and backend automation. As an entry-level engineer, I pride myself on being a fast learner, a highly collaborative team player, and a developer who thinks about the **user impact** of my code. 
