@@ -15,7 +15,8 @@ Whether I'm working in a cross-functional team to build predictive machine learn
 * **Impact:** Backed by `150+ active installations`, this tool parses academic class schedules and automatically populates Google Calendar events. It `saves users hours of tedious manual entries` and I am currently developing new updates the users experience as easy as possible.
 * **Tech Stack:** JavaScript, Chrome Extension API, RESTful APIs (Google Calendar API).
 
-### 🎬[Movie Recommender (CSE150A Project)](https://github.com/Matthew-Paoletta/CSE150A_Project) *(Group Project)*
+### 🎬[Movie Recommender](https://github.com/Matthew-Paoletta/CSE150A_Project) *(Group Project)*
+*An intelligent recommendation agent powered by Hidden Markov Models.*
 * A collaborative machine learning project implementing an improved Hidden Markov Model to identify movie industry groups and generate intelligent movie recommendations. The model analyzes temporal patterns in movie data using Baum-Welch EM algorithm with multiple random restarts, AIC/BIC model selection, and Dirichlet smoothing to predict user preferences based on historical viewing patterns.
 * **My Role & Teamwork:** Collaborated within a team of developers to architect and refine a Hidden Markov Model (HMM) and Bayesian Networks. Communicated complex model architectures across the team to ensure seamless integration.
 * **Impact:** Achieved a `50.6% performance improvement` over baseline models by successfully identifying hidden industry production groups.
