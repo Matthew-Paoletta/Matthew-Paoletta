@@ -12,7 +12,7 @@ Whether I'm working in a cross-functional team to build predictive machine learn
 
 ### 📅 [WebReg2Cal](https://github.com/Matthew-Paoletta/WebReg2Cal) | [🔗 Live on Chrome Web Store](https://chromewebstore.google.com/detail/webreg2cal/lpokllkbcdgioagipllhfcpjmdnjjdci?hl=en)
 *A Chrome Extension that eliminates manual scheduling for university students.*
-* **Impact:** Backed by `150+ active installations`, this tool parses academic class schedules and automatically populates Google Calendar events. It `saves users hours of tedious manual entries' and I am currently developing new updates the users experience as easy as possible.
+* **Impact:** Backed by `150+ active installations`, this tool parses academic class schedules and automatically populates Google Calendar events. It `saves users hours of tedious manual entries` and I am currently developing new updates the users experience as easy as possible.
 * **Tech Stack:** JavaScript, Chrome Extension API, RESTful APIs (Google Calendar API).
 
 #### 🎬[Movie Recommender (CSE150A Project)](https://github.com/Matthew-Paoletta/CSE150A_Project) *(Group Project)*
