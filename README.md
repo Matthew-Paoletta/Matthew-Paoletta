@@ -8,24 +8,23 @@
 I am a motivated Software Developer passionate about solving real-world problems through data-driven engineering and backend automation. As an entry-level engineer, I pride myself on being a fast learner, a highly collaborative team player, and a developer who thinks about the **user impact** of my code. 
 
 Whether I'm working in a cross-functional team to build predictive machine learning models or designing scripts to automate daily workflows, I focus on writing clean, maintainable, and efficient code.
-
 ## 🚀 Featured Projects
 
 ### 📅 [WebReg2Cal](https://github.com/Matthew-Paoletta/WebReg2Cal) | [🔗 Live on Chrome Web Store](https://chromewebstore.google.com/detail/webreg2cal/lpokllkbcdgioagipllhfcpjmdnjjdci?hl=en)
 *A Chrome Extension that eliminates manual scheduling for university students.*
-* **Impact:** Backed by **150+ active installations**, this tool parses academic class schedules and automatically populates Google Calendar events. It saves users hours of tedious manual entries and I am currently developing new updates the users experience as easy as possible.
+* **Impact:** Backed by `150+ active installations`, this tool parses academic class schedules and automatically populates Google Calendar events. It `saves users hours` of tedious manual entries and I am currently developing new updates the users experience as easy as possible.
 * **Tech Stack:** JavaScript, Chrome Extension API, RESTful APIs (Google Calendar API).
 
 #### 🎬[Movie Recommender (CSE150A Project)](https://github.com/Matthew-Paoletta/CSE150A_Project) *(Group Project)*
 * A collaborative machine learning project implementing an improved Hidden Markov Model to identify movie industry groups and generate intelligent movie recommendations. The model analyzes temporal patterns in movie data using Baum-Welch EM algorithm with multiple random restarts, AIC/BIC model selection, and Dirichlet smoothing to predict user preferences based on historical viewing patterns.
 * **My Role & Teamwork:** Collaborated within a team of developers to architect and refine a Hidden Markov Model (HMM) and Bayesian Networks. Communicated complex model architectures across the team to ensure seamless integration.
-* **Impact:** Achieved a **50.6% performance improvement** over baseline models by successfully identifying hidden industry production regimes.
-**Technologies Used:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, Hidden Markov Models. 
+* **Impact:** Achieved a `50.6% performance improvement` over baseline models by successfully identifying hidden industry production groups.
+* **Technologies Used:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, Hidden Markov Models. 
 
-### ⚾ [Playoff-Win-Predictor](https://github.com/Matthew-Paoletta/Playoff-Win-Predictor)
+### ⚾ [Postseason Performance Predictor](https://github.com/Matthew-Paoletta/Postseason-Performance-Predictor)
 *A predictive analytics model built for sports forecasting.*
-* **Impact:** Processed and cleaned large datasets to build a statistical model capable of predicting NBA team playoff success, demonstrating a strong grasp of data preprocessing and feature engineering.
-* **Tech Stack:** Python, Predictive Analytics, Data Visualization.
+* **Impact:** Engineered an end-to-end data pipeline analyzing over `20+ years of historical MLB data` and `1,000+ game stats` to predict playoff success. Successfully identified critical postseason thresholds, proving mathematically that elite pitching (Top-12 ERA/WHIP) is a strict prerequisite for pennant winners, while offensive metrics allow variance down to 24th in the league.
+* **Tech Stack:** Python (Pandas, Selenium), Predictive Analytics, Feature Engineering, Data Visualization.
 
 ## 💻 Technical Arsenal
 **Languages:** Python, Java, JavaScript, C, MATLAB, C++  
