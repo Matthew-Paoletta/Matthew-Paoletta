@@ -23,8 +23,8 @@ Whether I'm working in a cross-functional team to build predictive machine learn
 
 ### ⚾ [Postseason Performance Predictor](https://github.com/Matthew-Paoletta/Postseason-Performance-Predictor)
 *A predictive analytics model built for sports forecasting.*
-* **Impact:** Engineered an end-to-end data pipeline analyzing over `20+ years of historical MLB data` and `1,000+ game stats` to predict playoff success. Successfully identified critical postseason thresholds, proving mathematically that elite pitching (Top-12 ERA/WHIP) is a strict prerequisite for pennant winners, while offensive metrics allow variance down to 24th in the league.
-* **Tech Stack:** Python (Pandas, Selenium), Predictive Analytics, Feature Engineering, Data Visualization.
+* **Impact:** Engineered an end-to-end data pipeline analyzing over `20+ years of historical MLB data` and `1,000+ season team stats` to predict playoff success. Successfully identified critical postseason thresholds, proving that elite pitching (Top-12 ERA/WHIP) is a strict prerequisite for World Series contention, whereas offensive metrics allow variance down to 24th in the league.
+* **Tech Stack:** Python, Predictive Analytics, Feature Engineering, Data Visualization.
 
 ## 💻 Technical Arsenal
 **Languages:** Python, Java, JavaScript, C, MATLAB, C++  
