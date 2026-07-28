@@ -19,7 +19,7 @@ A Chrome Extension that automatically imports university class schedules into Go
 ### Impact
 
 - 🚀 Published on the Chrome Web Store
-- 📥 **339 installs**
+- 📥 **340+ installs**
 - 👀 **630+ Chrome Web Store page views**
 - 📈 **37 users on the busiest day**
 - ⏱️ Eliminates manual schedule entry for students
